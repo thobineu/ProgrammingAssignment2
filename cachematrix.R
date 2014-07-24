@@ -3,6 +3,8 @@
 
 ## Write a short comment describing this function
 
+## The functioon is not chenged. PA 2 was not solved
+
 makeCacheMatrix <- function(x = matrix()) {
 
 }
